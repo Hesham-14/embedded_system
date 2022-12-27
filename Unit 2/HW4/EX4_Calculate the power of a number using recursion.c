@@ -28,7 +28,7 @@ int main()
 // reverse function definition
 int power_func(int x, int n)
 {
-	if(n>1)
+	if(n>=1)
 		return x*power_func(x,n-1);
 	else
 		return 1;
