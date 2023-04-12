@@ -16,7 +16,9 @@
 
 ---
 
-### Second Term ![image](https://progress-bar.dev/0/?title=In%20Progress&color=eb6734)
+### Second Term ![image](https://progress-bar.dev/15/?title=In%20Progress&color=eb6734)
+
+- [Unit 6: MCU Fundamentals]() ![image](https://progress-bar.dev/75/)
 
 ---
 
