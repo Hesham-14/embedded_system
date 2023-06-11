@@ -16,7 +16,7 @@
 
 ---
 
-### Second Term ![image](https://progress-bar.dev/15/?title=In%20Progress&color=eb6734)
+### Second Term ![image](https://progress-bar.dev/100/?title=Done%20)
 
 - [Unit 6 - MCU Architecture](https://github.com/Hesham-14/embedded_system/tree/master/Unit%206%20-%20MCU%20Architecture) ![image](https://progress-bar.dev/100/)
 - [Unit 7 - MCU Pripherals](https://github.com/Hesham-14/embedded_system/tree/master/Unit%207%20-%20MCU%20Pripherals) ![image](https://progress-bar.dev/100/)
@@ -24,7 +24,7 @@
 
 ---
 
-### Third Term ![image](https://progress-bar.dev/0/?title=Not%20Yet&color=ff0000)
+### Third Term ![image](https://progress-bar.dev/15/?title=In%20Progress&color=eb6734)
 
 ---
 ## My Progress Profile: [Click Here](https://www.learn-in-depth.com/onlinediploma/heshammuhammed14@gmail.com)
