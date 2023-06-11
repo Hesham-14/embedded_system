@@ -20,7 +20,7 @@
 
 - [Unit 6: MCU Fundamentals](Unit 6 - MCU Architecture) ![image](https://progress-bar.dev/100/)
 - [Unit 7: MCU Pripherals](Unit 7 - MCU Pripherals) ![image](https://progress-bar.dev/100/)
-- [Unit 8: MCU Interfacing](Unit 8 - MCU Interfacing) ![image](https://progress-bar.dev/100/)
+- [Unit 8 - MCU Interfacing](https://github.com/Hesham-14/embedded_system/tree/master/Unit%208%20-%20MCU%20Interfacing) ![image](https://progress-bar.dev/100/)
 
 ---
 
