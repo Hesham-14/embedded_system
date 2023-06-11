@@ -1,0 +1,5 @@
+main.c:32:6:CLK_init	4	static
+main.c:42:6:GPIO_init	4	static
+main.c:47:6:wait_ms	24	static
+main.c:54:6:EXTI9PB9_Callback	4	static
+main.c:62:5:main	32	static
