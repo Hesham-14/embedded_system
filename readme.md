@@ -19,6 +19,8 @@
 ### Second Term ![image](https://progress-bar.dev/15/?title=In%20Progress&color=eb6734)
 
 - [Unit 6: MCU Fundamentals]() ![image](https://progress-bar.dev/75/)
+- [Unit 7 - MCU Pripherals]() ![image](https://progress-bar.dev/100/)
+- [Unit 5: First Term Projects]() ![image](https://progress-bar.dev/100/)
 
 ---
 
