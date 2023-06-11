@@ -1,0 +1,2 @@
+-Write numbers on master and slave 
+-Write alphabet on slave through master
